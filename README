@@ -1,7 +1,6 @@
-Official release page
+This is the code of the LiquidFeedback Frontend with some patches we use on lqpp.de
+
+We will merge new releases with this repository to keep the system up to date.
+
+LiquidFeedback is developed by the Public Software Group. The official release can be found at:
 http://www.public-software-group.org/liquid_feedback_frontend
-
-Installation instruction (for Debian squeeze)
-http://dev.liquidfeedback.org/trac/lf/wiki/installation
-
-
